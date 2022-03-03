@@ -35,7 +35,7 @@ Infastructure-as-a-service is the most suitable when:
 * Your company is experiencing rapid growth. With IaaS solutions, you can easily change particular hardware or software according to your evolving needs.
 * You do not have precise requirements for your application. IaaS is noted for its flexibility and scalability.
 
-**Examples:** AWS Elastic Compute (EC2), VM Ware, DigitalOcean, Openstack, RockSpace.
+**Examples:** AWS Elastic Compute (EC2), VMware, DigitalOcean, Openstack, RackSpace.
 
 | On Premises   | IAAS  | PAAS  | SAAS  |
 |---|---|---|---|
